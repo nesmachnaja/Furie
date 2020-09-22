@@ -1,0 +1,8 @@
+C:\Users\Людмила Несмачная\Source\Workspaces\Рабочая область\Furie\Furie\bin\Release\Furie.exe
+C:\Users\Людмила Несмачная\Source\Workspaces\Рабочая область\Furie\Furie\bin\Release\Furie.pdb
+C:\Users\Людмила Несмачная\Source\Workspaces\Рабочая область\Furie\Furie\obj\Release\Furie.csprojResolveAssemblyReference.cache
+C:\Users\Людмила Несмачная\Source\Workspaces\Рабочая область\Furie\Furie\obj\Release\Furie.Form1.resources
+C:\Users\Людмила Несмачная\Source\Workspaces\Рабочая область\Furie\Furie\obj\Release\Furie.Properties.Resources.resources
+C:\Users\Людмила Несмачная\Source\Workspaces\Рабочая область\Furie\Furie\obj\Release\Furie.csproj.GenerateResource.Cache
+C:\Users\Людмила Несмачная\Source\Workspaces\Рабочая область\Furie\Furie\obj\Release\Furie.exe
+C:\Users\Людмила Несмачная\Source\Workspaces\Рабочая область\Furie\Furie\obj\Release\Furie.pdb

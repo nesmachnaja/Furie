@@ -1,0 +1,16 @@
+C:\Users\Людмила Несмачная\Source\Workspaces\Рабочая область\Furie\Furie\obj\Debug\Furie.csprojResolveAssemblyReference.cache
+C:\Users\Людмила Несмачная\Source\Workspaces\Рабочая область\Furie\Furie\obj\Debug\Furie.Properties.Resources.resources
+C:\Users\Людмила Несмачная\Source\Workspaces\Рабочая область\Furie\Furie\obj\Debug\Furie.csproj.GenerateResource.Cache
+C:\Users\Людмила Несмачная\Source\Workspaces\Рабочая область\Furie\Furie\bin\Debug\Furie.exe
+C:\Users\Людмила Несмачная\Source\Workspaces\Рабочая область\Furie\Furie\bin\Debug\Furie.pdb
+C:\Users\Людмила Несмачная\Source\Workspaces\Рабочая область\Furie\Furie\obj\Debug\Furie.exe
+C:\Users\Людмила Несмачная\Source\Workspaces\Рабочая область\Furie\Furie\obj\Debug\Furie.pdb
+C:\Users\Людмила Несмачная\Source\Workspaces\Рабочая область\Furie\Furie\obj\Debug\Furie.Form1.resources
+C:\Users\Людмила Несмачная\Documents\5 КУРС\Практика Панищев\Furie\Furie\obj\Debug\Furie.exe
+C:\Users\Людмила Несмачная\Documents\5 КУРС\Практика Панищев\Furie\Furie\obj\Debug\Furie.pdb
+C:\Users\Людмила Несмачная\Documents\5 КУРС\Практика Панищев\Furie\Furie\bin\Debug\Furie.exe
+C:\Users\Людмила Несмачная\Documents\5 КУРС\Практика Панищев\Furie\Furie\bin\Debug\Furie.pdb
+C:\Users\Людмила Несмачная\Documents\5 КУРС\Практика Панищев\Furie\Furie\obj\Debug\Furie.csprojResolveAssemblyReference.cache
+C:\Users\Людмила Несмачная\Documents\5 КУРС\Практика Панищев\Furie\Furie\obj\Debug\Furie.Form1.resources
+C:\Users\Людмила Несмачная\Documents\5 КУРС\Практика Панищев\Furie\Furie\obj\Debug\Furie.Properties.Resources.resources
+C:\Users\Людмила Несмачная\Documents\5 КУРС\Практика Панищев\Furie\Furie\obj\Debug\Furie.csproj.GenerateResource.Cache
